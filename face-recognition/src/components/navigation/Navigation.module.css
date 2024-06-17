@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.signOut{
+   text-decoration: underline;
+   padding: 25px;
+}
+.signOut:hover{
+    color:rgb(11, 11, 120);
+    cursor: pointer;
+}
